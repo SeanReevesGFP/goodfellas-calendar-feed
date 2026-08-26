@@ -1,48 +1,6 @@
 {
-  "generatedAt": "2026-08-26T03:01:33.153Z",
+  "generatedAt": "2026-08-26T04:01:34.015Z",
   "events": [
-    {
-      "title": "Mandatory Group Therapy",
-      "start": "2026-08-25T13:00:00.000Z",
-      "end": "2026-08-25T14:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Square account upgrade - power off all square/ipads devices",
-      "start": "2026-08-25T14:00:00.000Z",
-      "end": "2026-08-25T14:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Recruitment meeting ",
-      "start": "2026-08-25T17:45:00.000Z",
-      "end": "2026-08-25T18:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Area Huddle Up",
-      "start": "2026-08-25T18:00:00.000Z",
-      "end": "2026-08-25T19:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Weekly Desperados Catch-up",
-      "start": "2026-08-25T19:30:00.000Z",
-      "end": "2026-08-25T20:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Fall Cocktail Preview - Gulch",
-      "start": "2026-08-25T23:30:00.000Z",
-      "end": "2026-08-26T01:00:00.000Z",
-      "allDay": false,
-      "location": "1116 Grundy St, Nashville, TN 37203, USA"
-    },
     {
       "title": "Morning Meeting",
       "start": "2026-08-26T12:30:00.000Z",
@@ -131,6 +89,34 @@
       "title": "Joseph Sean And Sean Meet in Greet",
       "start": "2026-08-31T20:00:00.000Z",
       "end": "2026-08-31T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Mandatory Group Therapy",
+      "start": "2026-09-01T13:00:00.000Z",
+      "end": "2026-09-01T14:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Recruitment meeting ",
+      "start": "2026-09-01T17:45:00.000Z",
+      "end": "2026-09-01T18:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Area Huddle Up",
+      "start": "2026-09-01T18:00:00.000Z",
+      "end": "2026-09-01T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Weekly Desperados Catch-up",
+      "start": "2026-09-01T19:30:00.000Z",
+      "end": "2026-09-01T20:00:00.000Z",
       "allDay": false,
       "location": ""
     }
