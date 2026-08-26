@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T19:01:34.596Z",
+  "generatedAt": "2026-08-26T20:01:33.469Z",
   "events": [
     {
       "title": "Morning Meeting",
@@ -38,8 +38,8 @@
     },
     {
       "title": "Goodfellas + Sazerac TAIV Conversation",
-      "start": "2026-08-26T20:00:00.000Z",
-      "end": "2026-08-26T20:45:00.000Z",
+      "start": "2026-08-26T20:30:00.000Z",
+      "end": "2026-08-26T21:00:00.000Z",
       "allDay": false,
       "location": ""
     },
