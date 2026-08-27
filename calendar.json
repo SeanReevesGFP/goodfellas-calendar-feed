@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T17:01:34.427Z",
+  "generatedAt": "2026-08-27T18:01:33.538Z",
   "events": [
     {
       "title": "Mandatory Group Therapy",
@@ -102,6 +102,13 @@
     {
       "title": " New Weekly Orientation",
       "start": "2026-09-02T18:00:00.000Z",
+      "end": "2026-09-02T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Boots, Bourbon, Biscuits",
+      "start": "2026-09-02T18:30:00.000Z",
       "end": "2026-09-02T19:00:00.000Z",
       "allDay": false,
       "location": ""
