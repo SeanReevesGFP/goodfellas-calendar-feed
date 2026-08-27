@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T13:01:33.856Z",
+  "generatedAt": "2026-08-27T14:01:33.606Z",
   "events": [
     {
       "title": "Mandatory Group Therapy",
@@ -103,6 +103,13 @@
       "title": " New Weekly Orientation",
       "start": "2026-09-02T18:00:00.000Z",
       "end": "2026-09-02T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "PR - Kyle Kreutz",
+      "start": "2026-09-02T23:00:00.000Z",
+      "end": "2026-09-03T01:00:00.000Z",
       "allDay": false,
       "location": ""
     }
