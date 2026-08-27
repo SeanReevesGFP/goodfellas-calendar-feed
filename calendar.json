@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T19:01:34.820Z",
+  "generatedAt": "2026-08-27T20:01:34.144Z",
   "events": [
     {
       "title": "Mandatory Group Therapy",
@@ -19,6 +19,13 @@
       "title": "Employee Retention and Culture Focus",
       "start": "2026-08-27T19:00:00.000Z",
       "end": "2026-08-27T20:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Margins Edge - Manual Check Discussion ",
+      "start": "2026-08-27T20:00:00.000Z",
+      "end": "2026-08-27T21:00:00.000Z",
       "allDay": false,
       "location": ""
     },
