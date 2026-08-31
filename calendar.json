@@ -1,10 +1,17 @@
 {
-  "generatedAt": "2026-08-31T15:01:33.827Z",
+  "generatedAt": "2026-08-31T16:01:35.199Z",
   "events": [
     {
       "title": "**New** Corporate Weekly Meeting",
       "start": "2026-08-31T14:00:00.000Z",
       "end": "2026-08-31T15:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "liquor meeting ",
+      "start": "2026-08-31T16:00:00.000Z",
+      "end": "2026-08-31T17:00:00.000Z",
       "allDay": false,
       "location": ""
     },
@@ -131,13 +138,6 @@
       "title": "Employee Retention and Culture Focus",
       "start": "2026-09-03T19:00:00.000Z",
       "end": "2026-09-03T20:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "PR - Joseph Ries",
-      "start": "2026-09-03T22:30:00.000Z",
-      "end": "2026-09-04T00:30:00.000Z",
       "allDay": false,
       "location": ""
     },
