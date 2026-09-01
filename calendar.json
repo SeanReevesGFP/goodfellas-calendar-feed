@@ -1,27 +1,6 @@
 {
-  "generatedAt": "2026-09-01T03:01:33.874Z",
+  "generatedAt": "2026-09-01T04:01:33.455Z",
   "events": [
-    {
-      "title": "**New** Corporate Weekly Meeting",
-      "start": "2026-08-31T14:00:00.000Z",
-      "end": "2026-08-31T15:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "liquor meeting ",
-      "start": "2026-08-31T16:00:00.000Z",
-      "end": "2026-08-31T17:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Joseph Sean And Sean Meet in Greet",
-      "start": "2026-08-31T20:00:00.000Z",
-      "end": "2026-08-31T21:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "PR",
       "start": "2026-09-01T04:00:00.000Z",
@@ -166,6 +145,20 @@
       "title": "PR - Logan Hershberger",
       "start": "2026-09-06T17:00:00.000Z",
       "end": "2026-09-06T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "**New** Corporate Weekly Meeting",
+      "start": "2026-09-07T14:00:00.000Z",
+      "end": "2026-09-07T15:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Joseph Sean And Sean Meet in Greet",
+      "start": "2026-09-07T20:00:00.000Z",
+      "end": "2026-09-07T21:00:00.000Z",
       "allDay": false,
       "location": ""
     }
