@@ -1,41 +1,6 @@
 {
-  "generatedAt": "2026-09-02T03:01:34.414Z",
+  "generatedAt": "2026-09-02T04:01:33.833Z",
   "events": [
-    {
-      "title": "PR",
-      "start": "2026-09-01T04:00:00.000Z",
-      "end": "2026-09-02T04:00:00.000Z",
-      "allDay": true,
-      "location": ""
-    },
-    {
-      "title": "Mandatory Group Therapy",
-      "start": "2026-09-01T13:00:00.000Z",
-      "end": "2026-09-01T14:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Recruitment meeting ",
-      "start": "2026-09-01T17:45:00.000Z",
-      "end": "2026-09-01T18:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Area Huddle Up",
-      "start": "2026-09-01T18:00:00.000Z",
-      "end": "2026-09-01T19:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Weekly Desperados Catch-up",
-      "start": "2026-09-01T19:30:00.000Z",
-      "end": "2026-09-01T20:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "Covington",
       "start": "2026-09-02T04:00:00.000Z",
@@ -173,6 +138,41 @@
       "title": "Joseph Sean And Sean Meet in Greet",
       "start": "2026-09-07T20:00:00.000Z",
       "end": "2026-09-07T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Mandatory Group Therapy",
+      "start": "2026-09-08T13:00:00.000Z",
+      "end": "2026-09-08T14:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Esther Founders x Sean Reeves / Wiseguys",
+      "start": "2026-09-08T17:30:00.000Z",
+      "end": "2026-09-08T18:00:00.000Z",
+      "allDay": false,
+      "location": "1211 Main St, Cincinnati, OH 45202, USA"
+    },
+    {
+      "title": "Recruitment meeting ",
+      "start": "2026-09-08T17:45:00.000Z",
+      "end": "2026-09-08T18:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Area Huddle Up",
+      "start": "2026-09-08T18:00:00.000Z",
+      "end": "2026-09-08T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Weekly Desperados Catch-up",
+      "start": "2026-09-08T19:30:00.000Z",
+      "end": "2026-09-08T20:00:00.000Z",
       "allDay": false,
       "location": ""
     }
