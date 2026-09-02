@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T21:01:35.186Z",
+  "generatedAt": "2026-09-02T22:01:33.613Z",
   "events": [
     {
       "title": "Covington",
@@ -72,7 +72,7 @@
       "location": ""
     },
     {
-      "title": "King St Inventory Review",
+      "title": "King St Inventory Review ",
       "start": "2026-09-03T14:00:00.000Z",
       "end": "2026-09-03T14:15:00.000Z",
       "allDay": false,
@@ -80,8 +80,8 @@
     },
     {
       "title": "Gulch Inventory Review ",
-      "start": "2026-09-03T15:00:00.000Z",
-      "end": "2026-09-03T15:15:00.000Z",
+      "start": "2026-09-03T17:00:00.000Z",
+      "end": "2026-09-03T17:15:00.000Z",
       "allDay": false,
       "location": ""
     },
