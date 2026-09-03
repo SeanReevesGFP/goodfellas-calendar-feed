@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T17:01:33.934Z",
+  "generatedAt": "2026-09-03T18:01:34.190Z",
   "events": [
     {
       "title": "Overnight cleaning otr",
@@ -55,6 +55,34 @@
       "start": "2026-09-04T04:00:00.000Z",
       "end": "2026-09-05T04:00:00.000Z",
       "allDay": true,
+      "location": ""
+    },
+    {
+      "title": "SN inventory review",
+      "start": "2026-09-04T14:00:00.000Z",
+      "end": "2026-09-04T14:15:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "PR Inventory review",
+      "start": "2026-09-04T14:30:00.000Z",
+      "end": "2026-09-04T14:45:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "OTR Inventory Review",
+      "start": "2026-09-04T15:00:00.000Z",
+      "end": "2026-09-04T15:15:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Covington Inventory Review",
+      "start": "2026-09-04T15:30:00.000Z",
+      "end": "2026-09-04T15:45:00.000Z",
+      "allDay": false,
       "location": ""
     },
     {
