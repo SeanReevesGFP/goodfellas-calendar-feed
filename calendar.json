@@ -1,55 +1,6 @@
 {
-  "generatedAt": "2026-09-05T03:01:33.447Z",
+  "generatedAt": "2026-09-05T04:01:33.536Z",
   "events": [
-    {
-      "title": "OTR",
-      "start": "2026-09-04T04:00:00.000Z",
-      "end": "2026-09-05T04:00:00.000Z",
-      "allDay": true,
-      "location": ""
-    },
-    {
-      "title": "Desperados Menu Analysis ",
-      "start": "2026-09-04T14:00:00.000Z",
-      "end": "2026-09-04T15:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "SN inventory review",
-      "start": "2026-09-04T14:00:00.000Z",
-      "end": "2026-09-04T14:15:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "PR Inventory review",
-      "start": "2026-09-04T14:30:00.000Z",
-      "end": "2026-09-04T14:45:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Covington Inventory Review",
-      "start": "2026-09-04T16:15:00.000Z",
-      "end": "2026-09-04T16:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "OTR Inventory Review",
-      "start": "2026-09-04T18:00:00.000Z",
-      "end": "2026-09-04T18:15:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Facilities - Area Manager - Huddle Up",
-      "start": "2026-09-04T18:30:00.000Z",
-      "end": "2026-09-04T19:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "PR",
       "start": "2026-09-05T04:00:00.000Z",
@@ -173,6 +124,13 @@
       "title": "Employee Retention and Culture Focus",
       "start": "2026-09-10T19:00:00.000Z",
       "end": "2026-09-10T20:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Goodfellas Pizzeria- Mahou (Founders ): 2026 Annual Business Review ",
+      "start": "2026-09-11T16:00:00.000Z",
+      "end": "2026-09-11T16:30:00.000Z",
       "allDay": false,
       "location": ""
     }
