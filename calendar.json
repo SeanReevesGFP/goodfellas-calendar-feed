@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-09-08T03:01:33.429Z",
+  "generatedAt": "2026-09-08T04:01:33.730Z",
   "events": [
-    {
-      "title": "**New** Corporate Weekly Meeting",
-      "start": "2026-09-07T14:00:00.000Z",
-      "end": "2026-09-07T15:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Joseph Sean And Sean Meet in Greet",
-      "start": "2026-09-07T20:00:00.000Z",
-      "end": "2026-09-07T21:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "Mandatory Group Therapy",
       "start": "2026-09-08T13:00:00.000Z",
@@ -110,6 +96,27 @@
       "title": "OFF - Walker McNeill",
       "start": "2026-09-12T23:30:00.000Z",
       "end": "2026-09-13T02:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "ADT Quarterly Battery Check - See ADT Panel",
+      "start": "2026-09-14T04:00:00.000Z",
+      "end": "2026-09-15T04:00:00.000Z",
+      "allDay": true,
+      "location": ""
+    },
+    {
+      "title": "**New** Corporate Weekly Meeting",
+      "start": "2026-09-14T14:00:00.000Z",
+      "end": "2026-09-14T15:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Joseph Sean And Sean Meet in Greet",
+      "start": "2026-09-14T20:00:00.000Z",
+      "end": "2026-09-14T21:00:00.000Z",
       "allDay": false,
       "location": ""
     }
