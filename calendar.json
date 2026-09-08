@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T17:01:33.474Z",
+  "generatedAt": "2026-09-08T18:01:33.480Z",
   "events": [
     {
       "title": "Mandatory Group Therapy",
@@ -33,6 +33,13 @@
       "title": "Area Huddle Up",
       "start": "2026-09-08T18:00:00.000Z",
       "end": "2026-09-08T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Mass ave p&L review",
+      "start": "2026-09-08T19:00:00.000Z",
+      "end": "2026-09-08T19:30:00.000Z",
       "allDay": false,
       "location": ""
     },
@@ -75,6 +82,20 @@
       "title": " New Weekly Orientation",
       "start": "2026-09-09T18:00:00.000Z",
       "end": "2026-09-09T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "OTR P&L Review",
+      "start": "2026-09-10T14:00:00.000Z",
+      "end": "2026-09-10T14:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Mainstrasse P&L Review",
+      "start": "2026-09-10T14:30:00.000Z",
+      "end": "2026-09-10T15:00:00.000Z",
       "allDay": false,
       "location": ""
     },
