@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T15:01:33.786Z",
+  "generatedAt": "2026-09-09T16:01:33.935Z",
   "events": [
     {
       "title": "Morning Meeting",
@@ -35,6 +35,13 @@
       "end": "2026-09-09T17:30:00.000Z",
       "allDay": false,
       "location": ""
+    },
+    {
+      "title": "[Live Session] AI in Restaurants: Let's Put Your Data to Work",
+      "start": "2026-09-09T17:00:00.000Z",
+      "end": "2026-09-09T17:45:00.000Z",
+      "allDay": false,
+      "location": "https://meet.google.com/omi-fzaa-cit"
     },
     {
       "title": " New Weekly Orientation",
