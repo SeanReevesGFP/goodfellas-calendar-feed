@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T14:01:33.765Z",
+  "generatedAt": "2026-09-09T15:01:33.786Z",
   "events": [
     {
       "title": "Morning Meeting",
@@ -12,6 +12,13 @@
       "title": "Potential BM Interview (Spot Hold)",
       "start": "2026-09-09T14:00:00.000Z",
       "end": "2026-09-09T15:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Meg BM Chat",
+      "start": "2026-09-09T14:45:00.000Z",
+      "end": "2026-09-09T15:45:00.000Z",
       "allDay": false,
       "location": ""
     },
