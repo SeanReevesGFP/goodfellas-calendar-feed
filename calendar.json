@@ -1,55 +1,6 @@
 {
-  "generatedAt": "2026-09-09T03:01:33.630Z",
+  "generatedAt": "2026-09-09T04:01:33.791Z",
   "events": [
-    {
-      "title": "Mandatory Group Therapy",
-      "start": "2026-09-08T13:00:00.000Z",
-      "end": "2026-09-08T14:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Goodfellas - Mark Anthony Brands (White Claw): Introduction ",
-      "start": "2026-09-08T16:00:00.000Z",
-      "end": "2026-09-08T16:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Esther Founders x Sean Reeves / Wiseguys",
-      "start": "2026-09-08T17:30:00.000Z",
-      "end": "2026-09-08T18:00:00.000Z",
-      "allDay": false,
-      "location": "1211 Main St, Cincinnati, OH 45202, USA"
-    },
-    {
-      "title": "Recruitment meeting ",
-      "start": "2026-09-08T17:45:00.000Z",
-      "end": "2026-09-08T18:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Area Huddle Up",
-      "start": "2026-09-08T18:00:00.000Z",
-      "end": "2026-09-08T19:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Mass ave p&L review",
-      "start": "2026-09-08T19:00:00.000Z",
-      "end": "2026-09-08T19:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Weekly Desperados Catch-up",
-      "start": "2026-09-08T19:30:00.000Z",
-      "end": "2026-09-08T20:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "Morning Meeting",
       "start": "2026-09-09T12:30:00.000Z",
@@ -166,6 +117,34 @@
       "title": "Joseph Sean And Sean Meet in Greet",
       "start": "2026-09-14T20:00:00.000Z",
       "end": "2026-09-14T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Mandatory Group Therapy",
+      "start": "2026-09-15T13:00:00.000Z",
+      "end": "2026-09-15T14:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Recruitment meeting ",
+      "start": "2026-09-15T17:45:00.000Z",
+      "end": "2026-09-15T18:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Area Huddle Up",
+      "start": "2026-09-15T18:00:00.000Z",
+      "end": "2026-09-15T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Weekly Desperados Catch-up",
+      "start": "2026-09-15T19:30:00.000Z",
+      "end": "2026-09-15T20:00:00.000Z",
       "allDay": false,
       "location": ""
     }
