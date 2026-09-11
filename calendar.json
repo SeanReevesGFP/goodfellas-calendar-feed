@@ -1,48 +1,6 @@
 {
-  "generatedAt": "2026-09-11T03:01:33.207Z",
+  "generatedAt": "2026-09-11T04:01:34.382Z",
   "events": [
-    {
-      "title": "PR P&L Review",
-      "start": "2026-09-10T13:30:00.000Z",
-      "end": "2026-09-10T14:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "OTR P&L Review",
-      "start": "2026-09-10T14:00:00.000Z",
-      "end": "2026-09-10T14:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Mainstrasse P&L Review",
-      "start": "2026-09-10T14:30:00.000Z",
-      "end": "2026-09-10T15:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Short North P&L Review",
-      "start": "2026-09-10T16:00:00.000Z",
-      "end": "2026-09-10T16:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Quarterly Review Follow-Up",
-      "start": "2026-09-10T18:00:00.000Z",
-      "end": "2026-09-10T19:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Employee Retention and Culture Focus",
-      "start": "2026-09-10T19:00:00.000Z",
-      "end": "2026-09-10T20:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "Goodfellas Pizzeria- Mahou (Founders ): 2026 Annual Business Review ",
       "start": "2026-09-11T16:00:00.000Z",
@@ -145,6 +103,27 @@
       "title": " New Weekly Orientation",
       "start": "2026-09-16T18:00:00.000Z",
       "end": "2026-09-16T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Goodfellas - Annual Business Review: Bells/New Belgium ",
+      "start": "2026-09-17T16:00:00.000Z",
+      "end": "2026-09-17T16:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Quarterly Review Follow-Up",
+      "start": "2026-09-17T18:00:00.000Z",
+      "end": "2026-09-17T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Employee Retention and Culture Focus",
+      "start": "2026-09-17T19:00:00.000Z",
+      "end": "2026-09-17T20:00:00.000Z",
       "allDay": false,
       "location": ""
     }
