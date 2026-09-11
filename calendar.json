@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T19:01:33.522Z",
+  "generatedAt": "2026-09-11T20:01:33.866Z",
   "events": [
     {
       "title": "Goodfellas Pizzeria- Mahou (Founders ): 2026 Annual Business Review ",
@@ -12,6 +12,13 @@
       "title": "Alexander Knapik, PR Bar Back, In-Person",
       "start": "2026-09-11T17:30:00.000Z",
       "end": "2026-09-11T18:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "King St P&L Review ",
+      "start": "2026-09-11T19:00:00.000Z",
+      "end": "2026-09-11T19:30:00.000Z",
       "allDay": false,
       "location": ""
     },
