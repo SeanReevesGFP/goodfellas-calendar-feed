@@ -1,27 +1,6 @@
 {
-  "generatedAt": "2026-09-12T03:01:33.299Z",
+  "generatedAt": "2026-09-12T04:01:33.284Z",
   "events": [
-    {
-      "title": "Goodfellas Pizzeria- Mahou (Founders ): 2026 Annual Business Review ",
-      "start": "2026-09-11T16:00:00.000Z",
-      "end": "2026-09-11T16:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Alexander Knapik, PR Bar Back, In-Person",
-      "start": "2026-09-11T17:30:00.000Z",
-      "end": "2026-09-11T18:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "King St P&L Review ",
-      "start": "2026-09-11T19:00:00.000Z",
-      "end": "2026-09-11T19:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "OFF - Walker McNeill",
       "start": "2026-09-12T23:30:00.000Z",
@@ -131,6 +110,13 @@
       "title": "Employee Retention and Culture Focus",
       "start": "2026-09-17T19:00:00.000Z",
       "end": "2026-09-17T20:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Facilities - Area Manager - Huddle Up",
+      "start": "2026-09-18T18:30:00.000Z",
+      "end": "2026-09-18T19:30:00.000Z",
       "allDay": false,
       "location": ""
     }
