@@ -1,27 +1,6 @@
 {
-  "generatedAt": "2026-09-15T03:01:33.774Z",
+  "generatedAt": "2026-09-15T04:01:33.409Z",
   "events": [
-    {
-      "title": "ADT Quarterly Battery Check - See ADT Panel",
-      "start": "2026-09-14T04:00:00.000Z",
-      "end": "2026-09-15T04:00:00.000Z",
-      "allDay": true,
-      "location": ""
-    },
-    {
-      "title": "**New** Corporate Weekly Meeting",
-      "start": "2026-09-14T14:00:00.000Z",
-      "end": "2026-09-14T15:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Joseph Sean And Sean Meet in Greet",
-      "start": "2026-09-14T20:00:00.000Z",
-      "end": "2026-09-14T21:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "Mandatory Group Therapy",
       "start": "2026-09-15T13:00:00.000Z",
@@ -110,6 +89,27 @@
       "title": "Facilities - Area Manager - Huddle Up",
       "start": "2026-09-18T18:30:00.000Z",
       "end": "2026-09-18T19:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "**New** Corporate Weekly Meeting",
+      "start": "2026-09-21T14:00:00.000Z",
+      "end": "2026-09-21T15:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Goodfellas - Molson Coors: Annual Business Review",
+      "start": "2026-09-21T16:00:00.000Z",
+      "end": "2026-09-21T16:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Joseph Sean And Sean Meet in Greet",
+      "start": "2026-09-21T20:00:00.000Z",
+      "end": "2026-09-21T21:00:00.000Z",
       "allDay": false,
       "location": ""
     }
