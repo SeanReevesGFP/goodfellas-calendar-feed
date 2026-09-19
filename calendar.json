@@ -1,13 +1,6 @@
 {
-  "generatedAt": "2026-09-19T03:01:33.962Z",
+  "generatedAt": "2026-09-19T04:01:33.649Z",
   "events": [
-    {
-      "title": "Facilities - Area Manager - Huddle Up",
-      "start": "2026-09-18T18:30:00.000Z",
-      "end": "2026-09-18T19:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "**New** Corporate Weekly Meeting",
       "start": "2026-09-21T14:00:00.000Z",
@@ -110,6 +103,13 @@
       "title": "Employee Retention and Culture Focus",
       "start": "2026-09-24T19:00:00.000Z",
       "end": "2026-09-24T20:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "PR - Jaclyn Meder Ruzsa",
+      "start": "2026-09-25T23:00:00.000Z",
+      "end": "2026-09-26T01:00:00.000Z",
       "allDay": false,
       "location": ""
     }
