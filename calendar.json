@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T14:01:33.433Z",
+  "generatedAt": "2026-09-21T15:01:33.481Z",
   "events": [
     {
       "title": "**New** Corporate Weekly Meeting",
@@ -12,13 +12,6 @@
       "title": "Goodfellas - Molson Coors: Annual Business Review",
       "start": "2026-09-21T16:00:00.000Z",
       "end": "2026-09-21T16:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Joseph Sean And Sean Meet in Greet",
-      "start": "2026-09-21T20:00:00.000Z",
-      "end": "2026-09-21T21:00:00.000Z",
       "allDay": false,
       "location": ""
     },
@@ -47,6 +40,13 @@
       "title": "Weekly Desperados Catch-up",
       "start": "2026-09-22T19:30:00.000Z",
       "end": "2026-09-22T20:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Joseph Sean And Sean Meet in Greet",
+      "start": "2026-09-22T20:00:00.000Z",
+      "end": "2026-09-22T21:00:00.000Z",
       "allDay": false,
       "location": ""
     },
