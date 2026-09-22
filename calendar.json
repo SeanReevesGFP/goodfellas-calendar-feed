@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-09-22T03:01:33.409Z",
+  "generatedAt": "2026-09-22T04:01:33.495Z",
   "events": [
-    {
-      "title": "**New** Corporate Weekly Meeting",
-      "start": "2026-09-21T14:00:00.000Z",
-      "end": "2026-09-21T15:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Goodfellas - Molson Coors: Annual Business Review",
-      "start": "2026-09-21T16:00:00.000Z",
-      "end": "2026-09-21T16:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "Mandatory Group Therapy",
       "start": "2026-09-22T13:00:00.000Z",
@@ -117,6 +103,20 @@
       "title": "PR - Alescia Glossner",
       "start": "2026-09-26T21:00:00.000Z",
       "end": "2026-09-26T23:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "**New** Corporate Weekly Meeting",
+      "start": "2026-09-28T14:00:00.000Z",
+      "end": "2026-09-28T15:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Joseph Sean And Sean Meet in Greet",
+      "start": "2026-09-28T20:00:00.000Z",
+      "end": "2026-09-28T21:00:00.000Z",
       "allDay": false,
       "location": ""
     }
