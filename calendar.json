@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T12:01:33.549Z",
+  "generatedAt": "2026-09-23T13:01:34.912Z",
   "events": [
     {
       "title": "Morning Meeting",
@@ -25,14 +25,14 @@
     {
       "title": "Beverage Team Meeting",
       "start": "2026-09-23T16:30:00.000Z",
-      "end": "2026-09-23T17:30:00.000Z",
+      "end": "2026-09-23T17:00:00.000Z",
       "allDay": false,
       "location": ""
     },
     {
       "title": "Beverage Team Meeting",
       "start": "2026-09-23T16:30:00.000Z",
-      "end": "2026-09-23T17:00:00.000Z",
+      "end": "2026-09-23T17:30:00.000Z",
       "allDay": false,
       "location": ""
     },
