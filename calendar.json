@@ -1,13 +1,6 @@
 {
-  "generatedAt": "2026-09-25T03:01:33.338Z",
+  "generatedAt": "2026-09-25T04:01:33.687Z",
   "events": [
-    {
-      "title": "Employee Retention and Culture Focus",
-      "start": "2026-09-24T19:00:00.000Z",
-      "end": "2026-09-24T20:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "PR - Jaclyn Meder Ruzsa",
       "start": "2026-09-25T23:00:00.000Z",
@@ -112,6 +105,20 @@
       "end": "2026-09-30T23:00:00.000Z",
       "allDay": false,
       "location": "Desperados Cantina, 1224 Manchester Street #110 Lexington, KY 40504"
+    },
+    {
+      "title": "Quarterly Review Follow-Up",
+      "start": "2026-10-01T18:00:00.000Z",
+      "end": "2026-10-01T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Employee Retention and Culture Focus",
+      "start": "2026-10-01T19:00:00.000Z",
+      "end": "2026-10-01T20:00:00.000Z",
+      "allDay": false,
+      "location": ""
     }
   ]
 }
