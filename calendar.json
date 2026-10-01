@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T15:01:33.413Z",
+  "generatedAt": "2026-10-01T16:01:34.457Z",
   "events": [
     {
       "title": "Quarterly Review Follow-Up",
@@ -47,6 +47,13 @@
       "title": "Joseph Sean And Sean Meet in Greet",
       "start": "2026-10-05T20:00:00.000Z",
       "end": "2026-10-05T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Distillery Bar Clean",
+      "start": "2026-10-06T02:00:00.000Z",
+      "end": "2026-10-06T04:00:00.000Z",
       "allDay": false,
       "location": ""
     },
