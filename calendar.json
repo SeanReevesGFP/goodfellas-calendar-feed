@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-10-02T03:01:33.341Z",
+  "generatedAt": "2026-10-02T04:01:33.291Z",
   "events": [
-    {
-      "title": "Quarterly Review Follow-Up",
-      "start": "2026-10-01T18:00:00.000Z",
-      "end": "2026-10-01T19:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Employee Retention and Culture Focus",
-      "start": "2026-10-01T19:00:00.000Z",
-      "end": "2026-10-01T20:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "Facilities - Area Manager - Huddle Up",
       "start": "2026-10-02T18:30:00.000Z",
@@ -124,6 +110,20 @@
       "title": "PR - Kyle Kreutz",
       "start": "2026-10-07T23:00:00.000Z",
       "end": "2026-10-08T01:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Quarterly Review Follow-Up",
+      "start": "2026-10-08T18:00:00.000Z",
+      "end": "2026-10-08T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Employee Retention and Culture Focus",
+      "start": "2026-10-08T19:00:00.000Z",
+      "end": "2026-10-08T20:00:00.000Z",
       "allDay": false,
       "location": ""
     }
