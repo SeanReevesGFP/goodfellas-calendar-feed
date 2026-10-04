@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T14:01:33.616Z",
+  "generatedAt": "2026-10-04T15:01:33.237Z",
   "events": [
     {
       "title": "BAXTER Inventory Review",
@@ -54,6 +54,20 @@
       "title": "SN Inventory review",
       "start": "2026-10-05T18:00:00.000Z",
       "end": "2026-10-05T18:15:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "King St Inventory Review ",
+      "start": "2026-10-05T19:00:00.000Z",
+      "end": "2026-10-05T19:15:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Gulch Inventory Review ",
+      "start": "2026-10-05T19:15:00.000Z",
+      "end": "2026-10-05T19:30:00.000Z",
       "allDay": false,
       "location": ""
     },
