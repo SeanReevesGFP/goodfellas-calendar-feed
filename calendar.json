@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-10-04T03:01:33.557Z",
+  "generatedAt": "2026-10-04T04:01:33.242Z",
   "events": [
-    {
-      "title": "Out of office - Charity Golf Outing",
-      "start": "2026-10-03T04:00:00.000Z",
-      "end": "2026-10-04T04:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Liz Pinion - 90 Days",
-      "start": "2026-10-03T04:00:00.000Z",
-      "end": "2026-10-04T04:00:00.000Z",
-      "allDay": true,
-      "location": ""
-    },
     {
       "title": "**New** Corporate Weekly Meeting",
       "start": "2026-10-05T14:00:00.000Z",
