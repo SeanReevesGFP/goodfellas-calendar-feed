@@ -1,13 +1,6 @@
 {
-  "generatedAt": "2026-10-05T03:01:33.571Z",
+  "generatedAt": "2026-10-05T04:01:33.069Z",
   "events": [
-    {
-      "title": "BAXTER Inventory Review",
-      "start": "2026-10-04T19:30:00.000Z",
-      "end": "2026-10-04T19:45:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "DISTILLERY Inventory Review",
       "start": "2026-10-05T13:00:00.000Z",
