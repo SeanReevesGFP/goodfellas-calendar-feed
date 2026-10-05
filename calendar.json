@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:01:35.859Z",
+  "generatedAt": "2026-10-05T15:01:33.981Z",
   "events": [
     {
       "title": "DISTILLERY Inventory Review",
@@ -23,6 +23,13 @@
       "location": ""
     },
     {
+      "title": "Cov Inventory review",
+      "start": "2026-10-05T16:00:00.000Z",
+      "end": "2026-10-05T16:15:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
       "title": "Pr inventory review",
       "start": "2026-10-05T16:30:00.000Z",
       "end": "2026-10-05T16:45:00.000Z",
@@ -30,16 +37,9 @@
       "location": ""
     },
     {
-      "title": "Cov Inventory review",
+      "title": "OTR Inventory Review",
       "start": "2026-10-05T17:00:00.000Z",
       "end": "2026-10-05T17:15:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "OTR Inventory Review",
-      "start": "2026-10-05T17:30:00.000Z",
-      "end": "2026-10-05T17:45:00.000Z",
       "allDay": false,
       "location": ""
     },
