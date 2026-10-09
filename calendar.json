@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T17:01:33.583Z",
+  "generatedAt": "2026-10-09T18:01:33.349Z",
   "events": [
     {
       "title": "**New** Corporate Weekly Meeting",
@@ -19,6 +19,13 @@
       "title": "Joseph Sean And Sean Meet in Greet",
       "start": "2026-10-12T20:00:00.000Z",
       "end": "2026-10-12T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "OTR Stairs/Mantel Work",
+      "start": "2026-10-13T11:00:00.000Z",
+      "end": "2026-10-13T12:00:00.000Z",
       "allDay": false,
       "location": ""
     },
