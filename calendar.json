@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-10-09T03:01:33.370Z",
+  "generatedAt": "2026-10-09T04:01:34.604Z",
   "events": [
-    {
-      "title": "Quarterly Review Follow-Up",
-      "start": "2026-10-08T18:00:00.000Z",
-      "end": "2026-10-08T19:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Employee Retention and Culture Focus",
-      "start": "2026-10-08T19:00:00.000Z",
-      "end": "2026-10-08T20:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "**New** Corporate Weekly Meeting",
       "start": "2026-10-12T14:00:00.000Z",
@@ -110,6 +96,20 @@
       "title": "Distillery Winter Cocktail Tasting",
       "start": "2026-10-14T20:00:00.000Z",
       "end": "2026-10-14T21:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Quarterly Review Follow-Up",
+      "start": "2026-10-15T18:00:00.000Z",
+      "end": "2026-10-15T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Employee Retention and Culture Focus",
+      "start": "2026-10-15T19:00:00.000Z",
+      "end": "2026-10-15T20:00:00.000Z",
       "allDay": false,
       "location": ""
     }
