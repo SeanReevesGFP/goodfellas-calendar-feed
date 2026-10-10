@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T03:01:33.383Z",
+  "generatedAt": "2026-10-10T04:01:33.727Z",
   "events": [
     {
       "title": "**New** Corporate Weekly Meeting",
@@ -117,6 +117,20 @@
       "title": "Employee Retention and Culture Focus",
       "start": "2026-10-15T19:00:00.000Z",
       "end": "2026-10-15T20:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Facilities - Area Manager - Huddle Up",
+      "start": "2026-10-16T18:30:00.000Z",
+      "end": "2026-10-16T19:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Spritz Party",
+      "start": "2026-10-16T22:00:00.000Z",
+      "end": "2026-10-17T02:00:00.000Z",
       "allDay": false,
       "location": ""
     }
