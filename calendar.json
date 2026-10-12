@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T16:01:33.359Z",
+  "generatedAt": "2026-10-12T17:01:34.528Z",
   "events": [
     {
       "title": "**New** Corporate Weekly Meeting",
@@ -28,6 +28,13 @@
       "end": "2026-10-13T12:00:00.000Z",
       "allDay": false,
       "location": ""
+    },
+    {
+      "title": "Sazerac & Goodfella's Connect",
+      "start": "2026-10-13T12:30:00.000Z",
+      "end": "2026-10-13T13:00:00.000Z",
+      "allDay": false,
+      "location": "Microsoft Teams Meeting"
     },
     {
       "title": "Recruitment meeting ",
