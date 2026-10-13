@@ -1,27 +1,6 @@
 {
-  "generatedAt": "2026-10-13T03:01:33.632Z",
+  "generatedAt": "2026-10-13T04:01:35.018Z",
   "events": [
-    {
-      "title": "**New** Corporate Weekly Meeting",
-      "start": "2026-10-12T14:00:00.000Z",
-      "end": "2026-10-12T15:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Campari/Turkey Bash Catch-up",
-      "start": "2026-10-12T17:00:00.000Z",
-      "end": "2026-10-12T17:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Joseph Sean And Sean Meet in Greet",
-      "start": "2026-10-12T20:00:00.000Z",
-      "end": "2026-10-12T21:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "OTR Stairs/Mantel Work",
       "start": "2026-10-13T11:00:00.000Z",
@@ -145,6 +124,34 @@
       "title": "PR - Jackman Land",
       "start": "2026-10-18T00:00:00.000Z",
       "end": "2026-10-18T02:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "**New** Corporate Weekly Meeting",
+      "start": "2026-10-19T14:00:00.000Z",
+      "end": "2026-10-19T15:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "King Winter Cocktail Tasting",
+      "start": "2026-10-19T15:00:00.000Z",
+      "end": "2026-10-19T16:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Gulch Winter Cocktail Tasting",
+      "start": "2026-10-19T19:00:00.000Z",
+      "end": "2026-10-19T20:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Joseph Sean And Sean Meet in Greet",
+      "start": "2026-10-19T20:00:00.000Z",
+      "end": "2026-10-19T21:00:00.000Z",
       "allDay": false,
       "location": ""
     }
