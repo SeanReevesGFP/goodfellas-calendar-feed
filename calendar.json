@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-10-16T03:01:33.994Z",
+  "generatedAt": "2026-10-16T04:01:33.242Z",
   "events": [
-    {
-      "title": "Quarterly Review Follow-Up",
-      "start": "2026-10-15T18:00:00.000Z",
-      "end": "2026-10-15T19:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Employee Retention and Culture Focus",
-      "start": "2026-10-15T19:00:00.000Z",
-      "end": "2026-10-15T20:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "Facilities - Area Manager - Huddle Up",
       "start": "2026-10-16T18:30:00.000Z",
@@ -159,6 +145,20 @@
       "title": "Covington Winter Cocktail Tasting",
       "start": "2026-10-21T18:00:00.000Z",
       "end": "2026-10-21T19:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Quarterly Review Follow-Up",
+      "start": "2026-10-22T18:00:00.000Z",
+      "end": "2026-10-22T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Employee Retention and Culture Focus",
+      "start": "2026-10-22T19:00:00.000Z",
+      "end": "2026-10-22T20:00:00.000Z",
       "allDay": false,
       "location": ""
     }
