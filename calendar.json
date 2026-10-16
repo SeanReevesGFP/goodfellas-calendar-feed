@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T21:01:33.718Z",
+  "generatedAt": "2026-10-16T22:01:33.439Z",
   "events": [
     {
       "title": "Facilities - Area Manager - Huddle Up",
@@ -54,6 +54,13 @@
       "title": "Joseph Sean And Sean Meet in Greet",
       "start": "2026-10-19T20:00:00.000Z",
       "end": "2026-10-19T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Certified trainer check in",
+      "start": "2026-10-20T14:00:00.000Z",
+      "end": "2026-10-20T14:30:00.000Z",
       "allDay": false,
       "location": ""
     },
