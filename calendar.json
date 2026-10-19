@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T15:01:34.428Z",
+  "generatedAt": "2026-10-19T16:01:35.974Z",
   "events": [
     {
       "title": "**New** Corporate Weekly Meeting",
@@ -124,6 +124,13 @@
       "title": "Covington Winter Cocktail Tasting",
       "start": "2026-10-21T18:00:00.000Z",
       "end": "2026-10-21T19:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Saige Fox, PR Bartender, In-Person",
+      "start": "2026-10-22T17:00:00.000Z",
+      "end": "2026-10-22T18:00:00.000Z",
       "allDay": false,
       "location": ""
     },
