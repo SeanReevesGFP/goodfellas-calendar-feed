@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T07:01:33.268Z",
+  "generatedAt": "2026-10-20T08:01:33.592Z",
   "events": [
     {
       "title": "Certified trainer check in",
@@ -16,16 +16,16 @@
       "location": ""
     },
     {
-      "title": "Distillery Winter Cocktail Tasting",
+      "title": "Area Huddle Up",
       "start": "2026-10-20T18:00:00.000Z",
-      "end": "2026-10-20T19:30:00.000Z",
+      "end": "2026-10-20T19:00:00.000Z",
       "allDay": false,
       "location": ""
     },
     {
-      "title": "Area Huddle Up",
+      "title": "Distillery Winter Cocktail Tasting",
       "start": "2026-10-20T18:00:00.000Z",
-      "end": "2026-10-20T19:00:00.000Z",
+      "end": "2026-10-20T19:30:00.000Z",
       "allDay": false,
       "location": ""
     },
