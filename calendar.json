@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-10-20T03:01:33.467Z",
+  "generatedAt": "2026-10-20T04:01:33.180Z",
   "events": [
-    {
-      "title": "**New** Corporate Weekly Meeting",
-      "start": "2026-10-19T14:00:00.000Z",
-      "end": "2026-10-19T15:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "King Winter Cocktail Tasting",
-      "start": "2026-10-19T15:00:00.000Z",
-      "end": "2026-10-19T16:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Gulch Winter Cocktail Tasting",
-      "start": "2026-10-19T19:00:00.000Z",
-      "end": "2026-10-19T20:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Joseph Sean And Sean Meet in Greet",
-      "start": "2026-10-19T20:00:00.000Z",
-      "end": "2026-10-19T21:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "Certified trainer check in",
       "start": "2026-10-20T14:00:00.000Z",
@@ -166,6 +138,20 @@
       "title": "OFF - Kim Molloy",
       "start": "2026-10-24T22:30:00.000Z",
       "end": "2026-10-25T01:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "**New** Corporate Weekly Meeting",
+      "start": "2026-10-26T14:00:00.000Z",
+      "end": "2026-10-26T15:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Joseph Sean And Sean Meet in Greet",
+      "start": "2026-10-26T20:00:00.000Z",
+      "end": "2026-10-26T21:00:00.000Z",
       "allDay": false,
       "location": ""
     }
