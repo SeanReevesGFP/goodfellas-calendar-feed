@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T08:01:33.801Z",
+  "generatedAt": "2026-10-21T09:01:33.633Z",
   "events": [
     {
       "title": "Morning Meeting",
@@ -51,16 +51,16 @@
       "location": ""
     },
     {
-      "title": " New Weekly Orientation",
+      "title": "Covington Winter Cocktail Tasting",
       "start": "2026-10-21T18:00:00.000Z",
-      "end": "2026-10-21T19:00:00.000Z",
+      "end": "2026-10-21T19:30:00.000Z",
       "allDay": false,
       "location": ""
     },
     {
-      "title": "Covington Winter Cocktail Tasting",
+      "title": " New Weekly Orientation",
       "start": "2026-10-21T18:00:00.000Z",
-      "end": "2026-10-21T19:30:00.000Z",
+      "end": "2026-10-21T19:00:00.000Z",
       "allDay": false,
       "location": ""
     },
