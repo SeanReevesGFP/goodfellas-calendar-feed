@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T14:01:35.249Z",
+  "generatedAt": "2026-10-21T15:01:33.715Z",
   "events": [
     {
       "title": "Morning Meeting",
@@ -14,13 +14,6 @@
       "end": "2026-10-21T15:30:00.000Z",
       "allDay": false,
       "location": ""
-    },
-    {
-      "title": "Sean Reeves and Magda Wybieralska",
-      "start": "2026-10-21T14:30:00.000Z",
-      "end": "2026-10-21T14:45:00.000Z",
-      "allDay": false,
-      "location": "Google Meet (instructions in description)"
     },
     {
       "title": "Marketing/Beverage Catchup",
