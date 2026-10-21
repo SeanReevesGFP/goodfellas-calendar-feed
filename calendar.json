@@ -1,41 +1,6 @@
 {
-  "generatedAt": "2026-10-21T03:01:33.415Z",
+  "generatedAt": "2026-10-21T04:01:34.633Z",
   "events": [
-    {
-      "title": "Certified trainer check in",
-      "start": "2026-10-20T14:00:00.000Z",
-      "end": "2026-10-20T14:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Recruitment meeting ",
-      "start": "2026-10-20T17:45:00.000Z",
-      "end": "2026-10-20T18:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Area Huddle Up",
-      "start": "2026-10-20T18:00:00.000Z",
-      "end": "2026-10-20T19:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Distillery Winter Cocktail Tasting",
-      "start": "2026-10-20T18:00:00.000Z",
-      "end": "2026-10-20T19:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Weekly Desperados Catch-up",
-      "start": "2026-10-20T19:30:00.000Z",
-      "end": "2026-10-20T20:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "Morning Meeting",
       "start": "2026-10-21T12:30:00.000Z",
@@ -152,6 +117,34 @@
       "title": "Joseph Sean And Sean Meet in Greet",
       "start": "2026-10-26T20:00:00.000Z",
       "end": "2026-10-26T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Recruitment meeting ",
+      "start": "2026-10-27T17:45:00.000Z",
+      "end": "2026-10-27T18:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Area Huddle Up",
+      "start": "2026-10-27T18:00:00.000Z",
+      "end": "2026-10-27T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Baxter Winter Cocktail Tasting",
+      "start": "2026-10-27T19:00:00.000Z",
+      "end": "2026-10-27T20:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Weekly Desperados Catch-up",
+      "start": "2026-10-27T19:30:00.000Z",
+      "end": "2026-10-27T20:00:00.000Z",
       "allDay": false,
       "location": ""
     }
