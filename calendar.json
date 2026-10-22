@@ -1,55 +1,6 @@
 {
-  "generatedAt": "2026-10-22T03:01:33.181Z",
+  "generatedAt": "2026-10-22T04:01:33.244Z",
   "events": [
-    {
-      "title": "Morning Meeting",
-      "start": "2026-10-21T12:30:00.000Z",
-      "end": "2026-10-21T13:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "PR Winter Cocktail Tasting",
-      "start": "2026-10-21T14:00:00.000Z",
-      "end": "2026-10-21T15:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Marketing/Beverage Catchup",
-      "start": "2026-10-21T16:00:00.000Z",
-      "end": "2026-10-21T16:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "OTR Winter Cocktail Tasting",
-      "start": "2026-10-21T16:00:00.000Z",
-      "end": "2026-10-21T17:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Beverage Team Meeting",
-      "start": "2026-10-21T16:30:00.000Z",
-      "end": "2026-10-21T17:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Covington Winter Cocktail Tasting",
-      "start": "2026-10-21T18:00:00.000Z",
-      "end": "2026-10-21T19:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": " New Weekly Orientation",
-      "start": "2026-10-21T18:00:00.000Z",
-      "end": "2026-10-21T19:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "Saige Fox, PR Bartender, In-Person",
       "start": "2026-10-22T17:00:00.000Z",
@@ -131,6 +82,48 @@
       "title": "Weekly Desperados Catch-up",
       "start": "2026-10-27T19:30:00.000Z",
       "end": "2026-10-27T20:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Morning Meeting",
+      "start": "2026-10-28T12:30:00.000Z",
+      "end": "2026-10-28T13:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Sean Reeves and Magda Wybieralska",
+      "start": "2026-10-28T14:00:00.000Z",
+      "end": "2026-10-28T14:15:00.000Z",
+      "allDay": false,
+      "location": "Google Meet (instructions in description)"
+    },
+    {
+      "title": "Marketing/Beverage Catchup",
+      "start": "2026-10-28T16:00:00.000Z",
+      "end": "2026-10-28T16:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": " NEW Beverage Team Meeting",
+      "start": "2026-10-28T16:30:00.000Z",
+      "end": "2026-10-28T17:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Beverage Team Meeting",
+      "start": "2026-10-28T16:30:00.000Z",
+      "end": "2026-10-28T17:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": " New Weekly Orientation",
+      "start": "2026-10-28T18:00:00.000Z",
+      "end": "2026-10-28T19:00:00.000Z",
       "allDay": false,
       "location": ""
     }
