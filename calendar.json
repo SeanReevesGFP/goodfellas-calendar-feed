@@ -1,27 +1,6 @@
 {
-  "generatedAt": "2026-10-25T03:01:33.241Z",
+  "generatedAt": "2026-10-25T04:01:33.261Z",
   "events": [
-    {
-      "title": "2026 Service! Gala",
-      "start": "2026-10-24T19:00:00.000Z",
-      "end": "2026-10-25T02:00:00.000Z",
-      "allDay": false,
-      "location": "The Line (145 N Grant Ave, Columbus 43215)"
-    },
-    {
-      "title": "Murder Mystery Party - Distillery",
-      "start": "2026-10-24T21:00:00.000Z",
-      "end": "2026-10-25T02:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "OFF - Kim Molloy",
-      "start": "2026-10-24T22:30:00.000Z",
-      "end": "2026-10-25T01:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "**New** Corporate Weekly Meeting",
       "start": "2026-10-26T14:00:00.000Z",
