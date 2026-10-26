@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T20:01:33.852Z",
+  "generatedAt": "2026-10-26T21:01:33.626Z",
   "events": [
     {
       "title": "**New** Corporate Weekly Meeting",
@@ -12,6 +12,13 @@
       "title": "Joseph Sean And Sean Meet in Greet",
       "start": "2026-10-26T20:00:00.000Z",
       "end": "2026-10-26T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "1v1 The Venue COGS Update",
+      "start": "2026-10-27T15:00:00.000Z",
+      "end": "2026-10-27T16:00:00.000Z",
       "allDay": false,
       "location": ""
     },
@@ -75,6 +82,13 @@
       "title": "Beverage Team Meeting",
       "start": "2026-10-28T16:30:00.000Z",
       "end": "2026-10-28T17:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Joshua Schriber: PR - Bar Manager (In Person)",
+      "start": "2026-10-28T17:00:00.000Z",
+      "end": "2026-10-28T17:45:00.000Z",
       "allDay": false,
       "location": ""
     },
