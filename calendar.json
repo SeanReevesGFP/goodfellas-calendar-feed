@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T20:01:33.347Z",
+  "generatedAt": "2026-10-28T21:01:33.794Z",
   "events": [
     {
       "title": "Morning Meeting",
@@ -51,16 +51,16 @@
       "location": ""
     },
     {
-      "title": "Quarterly Review Follow-Up",
+      "title": "Mass Winter Cocktail Tasting",
       "start": "2026-10-29T18:00:00.000Z",
-      "end": "2026-10-29T19:00:00.000Z",
+      "end": "2026-10-29T19:30:00.000Z",
       "allDay": false,
       "location": ""
     },
     {
-      "title": "Mass Winter Cocktail Tasting",
+      "title": "Quarterly Review Follow-Up",
       "start": "2026-10-29T18:00:00.000Z",
-      "end": "2026-10-29T19:30:00.000Z",
+      "end": "2026-10-29T19:00:00.000Z",
       "allDay": false,
       "location": ""
     },
