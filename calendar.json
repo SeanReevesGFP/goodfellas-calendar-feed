@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T13:01:33.509Z",
+  "generatedAt": "2026-10-29T14:01:33.550Z",
   "events": [
     {
       "title": "Short North Winter Cocktail Tasting",
@@ -42,6 +42,13 @@
       "end": "2026-10-30T19:30:00.000Z",
       "allDay": false,
       "location": ""
+    },
+    {
+      "title": "PRBA Pub Crawl at Goodfellas Pizzeria & Wiseguy Lounge",
+      "start": "2026-10-30T23:00:00.000Z",
+      "end": "2026-10-31T03:00:00.000Z",
+      "allDay": false,
+      "location": "Goodfellas Pizzeria - Pleasant Ridge, 6099 Montgomery Rd, Cincinnati, OH 45213, USA"
     },
     {
       "title": "**New** Corporate Weekly Meeting",
