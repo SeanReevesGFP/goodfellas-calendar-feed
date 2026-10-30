@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T16:01:33.754Z",
+  "generatedAt": "2026-10-30T17:01:33.584Z",
   "events": [
     {
       "title": "Facilities - Area Manager - Huddle Up",
@@ -100,6 +100,13 @@
       "location": "Google Meet (instructions in description)"
     },
     {
+      "title": "Short North Bar- Interview Availability",
+      "start": "2026-11-04T16:00:00.000Z",
+      "end": "2026-11-04T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
       "title": "Marketing/Beverage Catchup",
       "start": "2026-11-04T17:00:00.000Z",
       "end": "2026-11-04T17:30:00.000Z",
@@ -131,6 +138,13 @@
       "title": "PR - Kyle Kreutz",
       "start": "2026-11-05T00:00:00.000Z",
       "end": "2026-11-05T02:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Short North Bar- Interview availability",
+      "start": "2026-11-05T16:00:00.000Z",
+      "end": "2026-11-05T21:00:00.000Z",
       "allDay": false,
       "location": ""
     },
