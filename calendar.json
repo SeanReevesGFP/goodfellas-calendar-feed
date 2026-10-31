@@ -1,13 +1,6 @@
 {
-  "generatedAt": "2026-10-31T03:01:33.516Z",
+  "generatedAt": "2026-10-31T04:01:33.604Z",
   "events": [
-    {
-      "title": "PRBA Pub Crawl at Goodfellas Pizzeria & Wiseguy Lounge",
-      "start": "2026-10-30T23:00:00.000Z",
-      "end": "2026-10-31T03:00:00.000Z",
-      "allDay": false,
-      "location": "Goodfellas Pizzeria - Pleasant Ridge, 6099 Montgomery Rd, Cincinnati, OH 45213, USA"
-    },
     {
       "title": "**New** Corporate Weekly Meeting",
       "start": "2026-11-02T15:00:00.000Z",
@@ -159,6 +152,20 @@
       "title": "Employee Retention and Culture Focus",
       "start": "2026-11-05T20:00:00.000Z",
       "end": "2026-11-05T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Short North Bar- Interview Availability",
+      "start": "2026-11-06T16:00:00.000Z",
+      "end": "2026-11-06T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "PR - Paige Keeton",
+      "start": "2026-11-07T00:30:00.000Z",
+      "end": "2026-11-07T02:30:00.000Z",
       "allDay": false,
       "location": ""
     }
