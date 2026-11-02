@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T15:01:33.919Z",
+  "generatedAt": "2026-11-02T16:01:35.584Z",
   "events": [
     {
       "title": "**New** Corporate Weekly Meeting",
@@ -91,6 +91,20 @@
       "end": "2026-11-04T15:15:00.000Z",
       "allDay": false,
       "location": "Google Meet (instructions in description)"
+    },
+    {
+      "title": "King St Inventory Review ",
+      "start": "2026-11-04T15:30:00.000Z",
+      "end": "2026-11-04T15:45:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Gulch Inventory Review",
+      "start": "2026-11-04T15:45:00.000Z",
+      "end": "2026-11-04T16:00:00.000Z",
+      "allDay": false,
+      "location": ""
     },
     {
       "title": "Short North Bar- Interview Availability",
