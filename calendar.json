@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T19:01:33.350Z",
+  "generatedAt": "2026-11-02T20:01:33.155Z",
   "events": [
     {
       "title": "**New** Corporate Weekly Meeting",
@@ -30,6 +30,13 @@
       "location": ""
     },
     {
+      "title": "Inventory review - OTR",
+      "start": "2026-11-03T15:00:00.000Z",
+      "end": "2026-11-03T15:15:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
       "title": "Inventory review - SN",
       "start": "2026-11-03T16:00:00.000Z",
       "end": "2026-11-03T16:15:00.000Z",
@@ -40,13 +47,6 @@
       "title": "PR inventory Review",
       "start": "2026-11-03T16:30:00.000Z",
       "end": "2026-11-03T16:45:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Inventory review - OTR",
-      "start": "2026-11-03T17:00:00.000Z",
-      "end": "2026-11-03T17:15:00.000Z",
       "allDay": false,
       "location": ""
     },
