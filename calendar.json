@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T16:01:33.184Z",
+  "generatedAt": "2026-11-04T17:01:33.518Z",
   "events": [
     {
       "title": "Morning Meeting",
@@ -54,6 +54,27 @@
       "title": " New Weekly Orientation",
       "start": "2026-11-04T19:00:00.000Z",
       "end": "2026-11-04T20:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Merit Review",
+      "start": "2026-11-04T20:00:00.000Z",
+      "end": "2026-11-04T20:15:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Merit review",
+      "start": "2026-11-04T20:30:00.000Z",
+      "end": "2026-11-04T20:45:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Merit review",
+      "start": "2026-11-04T21:00:00.000Z",
+      "end": "2026-11-04T21:15:00.000Z",
       "allDay": false,
       "location": ""
     },
