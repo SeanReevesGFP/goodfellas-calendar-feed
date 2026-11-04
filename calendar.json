@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T17:01:33.518Z",
+  "generatedAt": "2026-11-04T18:01:33.276Z",
   "events": [
     {
       "title": "Morning Meeting",
@@ -37,16 +37,16 @@
       "location": ""
     },
     {
-      "title": " NEW Beverage Team Meeting",
+      "title": "Beverage Team Meeting",
       "start": "2026-11-04T17:30:00.000Z",
-      "end": "2026-11-04T18:00:00.000Z",
+      "end": "2026-11-04T18:30:00.000Z",
       "allDay": false,
       "location": ""
     },
     {
-      "title": "Beverage Team Meeting",
+      "title": " NEW Beverage Team Meeting",
       "start": "2026-11-04T17:30:00.000Z",
-      "end": "2026-11-04T18:30:00.000Z",
+      "end": "2026-11-04T18:00:00.000Z",
       "allDay": false,
       "location": ""
     },
