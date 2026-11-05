@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T18:01:35.041Z",
+  "generatedAt": "2026-11-05T19:01:33.507Z",
   "events": [
     {
       "title": "Short North Bar- Interview availability",
@@ -49,6 +49,13 @@
       "end": "2026-11-09T16:00:00.000Z",
       "allDay": false,
       "location": ""
+    },
+    {
+      "title": "Mass Ave, SN, & Mocktail Shoot",
+      "start": "2026-11-09T16:30:00.000Z",
+      "end": "2026-11-09T17:30:00.000Z",
+      "allDay": false,
+      "location": "Goodfellas HQ"
     },
     {
       "title": "Joseph Sean And Sean Meet in Greet",
