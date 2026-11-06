@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T21:01:34.768Z",
+  "generatedAt": "2026-11-06T22:01:33.189Z",
   "events": [
     {
       "title": "Short North Bar- Interview Availability",
@@ -28,6 +28,13 @@
       "end": "2026-11-09T17:30:00.000Z",
       "allDay": false,
       "location": "Goodfellas HQ"
+    },
+    {
+      "title": "Holiday Bottle Raffle Call",
+      "start": "2026-11-09T18:00:00.000Z",
+      "end": "2026-11-09T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
     },
     {
       "title": "Joseph Sean And Sean Meet in Greet",
