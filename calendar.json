@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-08T13:01:33.147Z",
+  "generatedAt": "2026-11-08T14:01:33.326Z",
   "events": [
+    {
+      "title": "P&L conversation",
+      "start": "2026-11-08T17:00:00.000Z",
+      "end": "2026-11-08T18:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
     {
       "title": "**New** Corporate Weekly Meeting",
       "start": "2026-11-09T15:00:00.000Z",
