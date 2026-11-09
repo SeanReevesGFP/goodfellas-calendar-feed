@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T16:01:33.717Z",
+  "generatedAt": "2026-11-09T17:01:33.870Z",
   "events": [
     {
       "title": "**New** Corporate Weekly Meeting",
@@ -11,7 +11,7 @@
     {
       "title": "Mass Ave, SN, & Mocktail Shoot",
       "start": "2026-11-09T16:30:00.000Z",
-      "end": "2026-11-09T17:30:00.000Z",
+      "end": "2026-11-09T18:00:00.000Z",
       "allDay": false,
       "location": "Goodfellas HQ"
     },
@@ -19,6 +19,13 @@
       "title": "Holiday Bottle Raffle Call",
       "start": "2026-11-09T18:00:00.000Z",
       "end": "2026-11-09T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Short North DJ Meeting",
+      "start": "2026-11-09T19:15:00.000Z",
+      "end": "2026-11-09T19:45:00.000Z",
       "allDay": false,
       "location": ""
     },
