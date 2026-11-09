@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T17:01:33.870Z",
+  "generatedAt": "2026-11-09T18:01:33.386Z",
   "events": [
     {
       "title": "**New** Corporate Weekly Meeting",
@@ -98,6 +98,13 @@
       "end": "2026-11-11T20:00:00.000Z",
       "allDay": false,
       "location": ""
+    },
+    {
+      "title": "Goodfellas & Red Bull Q4 Connect",
+      "start": "2026-11-12T18:00:00.000Z",
+      "end": "2026-11-12T18:30:00.000Z",
+      "allDay": false,
+      "location": "Microsoft Teams Meeting"
     },
     {
       "title": "Quarterly Review Follow-Up",
