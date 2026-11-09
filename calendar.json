@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-11-09T04:01:33.174Z",
+  "generatedAt": "2026-11-09T05:01:33.106Z",
   "events": [
-    {
-      "title": "P&L conversation",
-      "start": "2026-11-08T17:00:00.000Z",
-      "end": "2026-11-08T18:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Inventory Call",
-      "start": "2026-11-08T17:50:00.000Z",
-      "end": "2026-11-08T18:50:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "**New** Corporate Weekly Meeting",
       "start": "2026-11-09T15:00:00.000Z",
@@ -131,6 +117,20 @@
       "title": "OFF - Jill Iris",
       "start": "2026-11-13T22:00:00.000Z",
       "end": "2026-11-14T01:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Miracle Bar",
+      "start": "2026-11-15T05:00:00.000Z",
+      "end": "2026-12-30T05:00:00.000Z",
+      "allDay": true,
+      "location": ""
+    },
+    {
+      "title": "PR - Tedi Clements (PU)",
+      "start": "2026-11-15T21:30:00.000Z",
+      "end": "2026-11-15T21:30:00.000Z",
       "allDay": false,
       "location": ""
     }
