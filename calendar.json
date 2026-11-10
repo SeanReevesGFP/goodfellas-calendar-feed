@@ -1,41 +1,6 @@
 {
-  "generatedAt": "2026-11-10T04:01:33.306Z",
+  "generatedAt": "2026-11-10T05:01:33.423Z",
   "events": [
-    {
-      "title": "**New** Corporate Weekly Meeting",
-      "start": "2026-11-09T15:00:00.000Z",
-      "end": "2026-11-09T16:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Mass Ave, SN, & Mocktail Shoot",
-      "start": "2026-11-09T16:30:00.000Z",
-      "end": "2026-11-09T18:00:00.000Z",
-      "allDay": false,
-      "location": "Goodfellas HQ"
-    },
-    {
-      "title": "Holiday Bottle Raffle Call",
-      "start": "2026-11-09T18:00:00.000Z",
-      "end": "2026-11-09T19:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Short North DJ Meeting",
-      "start": "2026-11-09T19:30:00.000Z",
-      "end": "2026-11-09T20:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Joseph Sean And Sean Meet in Greet",
-      "start": "2026-11-09T21:00:00.000Z",
-      "end": "2026-11-09T22:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "Recruitment meeting ",
       "start": "2026-11-10T18:45:00.000Z",
@@ -147,6 +112,34 @@
       "end": "2026-11-15T21:30:00.000Z",
       "allDay": false,
       "location": ""
+    },
+    {
+      "title": "Salt and Shovel Season - Stock up",
+      "start": "2026-11-16T12:00:00.000Z",
+      "end": "2026-11-16T13:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "**New** Corporate Weekly Meeting",
+      "start": "2026-11-16T15:00:00.000Z",
+      "end": "2026-11-16T16:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Joseph Sean And Sean Meet in Greet",
+      "start": "2026-11-16T21:00:00.000Z",
+      "end": "2026-11-16T22:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Noble Cut Distillery Battle of the Bars!",
+      "start": "2026-11-16T23:00:00.000Z",
+      "end": "2026-11-17T02:00:00.000Z",
+      "allDay": false,
+      "location": "The Bluestone"
     }
   ]
 }
