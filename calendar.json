@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T18:01:33.417Z",
+  "generatedAt": "2026-11-11T19:01:33.456Z",
   "events": [
     {
       "title": "Morning Meeting",
@@ -61,6 +61,13 @@
       "title": "Employee Retention and Culture Focus",
       "start": "2026-11-12T20:00:00.000Z",
       "end": "2026-11-12T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Winnie Brunsman, PR Bartender, In-Person",
+      "start": "2026-11-12T21:30:00.000Z",
+      "end": "2026-11-12T22:00:00.000Z",
       "allDay": false,
       "location": ""
     },
