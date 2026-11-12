@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T17:01:33.711Z",
+  "generatedAt": "2026-11-12T18:01:34.043Z",
   "events": [
     {
       "title": "Payroll and Reporting Discussion",
@@ -14,13 +14,6 @@
       "end": "2026-11-12T18:30:00.000Z",
       "allDay": false,
       "location": "Microsoft Teams Meeting"
-    },
-    {
-      "title": "Quarterly Review Follow-Up",
-      "start": "2026-11-12T19:00:00.000Z",
-      "end": "2026-11-12T20:00:00.000Z",
-      "allDay": false,
-      "location": ""
     },
     {
       "title": "Employee Retention and Culture Focus",
