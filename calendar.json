@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-11-13T04:01:32.980Z",
+  "generatedAt": "2026-11-13T05:01:33.163Z",
   "events": [
-    {
-      "title": "Payroll and Reporting Discussion",
-      "start": "2026-11-12T15:00:00.000Z",
-      "end": "2026-11-12T16:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Goodfellas & Red Bull Q4 Connect",
-      "start": "2026-11-12T18:00:00.000Z",
-      "end": "2026-11-12T18:30:00.000Z",
-      "allDay": false,
-      "location": "Microsoft Teams Meeting"
-    },
-    {
-      "title": "Employee Retention and Culture Focus",
-      "start": "2026-11-12T20:00:00.000Z",
-      "end": "2026-11-12T21:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Winnie Brunsman, PR Bartender, In-Person",
-      "start": "2026-11-12T21:30:00.000Z",
-      "end": "2026-11-12T22:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
     {
       "title": "Facilities - Area Manager - Huddle Up",
       "start": "2026-11-13T19:30:00.000Z",
@@ -145,6 +117,13 @@
       "title": " New Weekly Orientation",
       "start": "2026-11-18T19:00:00.000Z",
       "end": "2026-11-18T20:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Employee Retention and Culture Focus",
+      "start": "2026-11-19T20:00:00.000Z",
+      "end": "2026-11-19T21:00:00.000Z",
       "allDay": false,
       "location": ""
     }
