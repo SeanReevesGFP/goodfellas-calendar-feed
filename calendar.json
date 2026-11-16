@@ -1,18 +1,11 @@
 {
-  "generatedAt": "2026-11-16T04:01:33.952Z",
+  "generatedAt": "2026-11-16T05:01:33.255Z",
   "events": [
     {
       "title": "Miracle Bar",
       "start": "2026-11-15T05:00:00.000Z",
       "end": "2026-12-30T05:00:00.000Z",
       "allDay": true,
-      "location": ""
-    },
-    {
-      "title": "PR - Tedi Clements (PU)",
-      "start": "2026-11-15T21:30:00.000Z",
-      "end": "2026-11-15T21:30:00.000Z",
-      "allDay": false,
       "location": ""
     },
     {
