@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T18:01:34.641Z",
+  "generatedAt": "2026-11-16T19:01:33.368Z",
   "events": [
     {
       "title": "Miracle Bar",
@@ -103,6 +103,13 @@
       "title": "Employee Retention and Culture Focus",
       "start": "2026-11-19T20:00:00.000Z",
       "end": "2026-11-19T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "PR - Tatum Gray",
+      "start": "2026-11-22T19:00:00.000Z",
+      "end": "2026-11-22T21:00:00.000Z",
       "allDay": false,
       "location": ""
     }
