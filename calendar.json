@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T20:01:33.428Z",
+  "generatedAt": "2026-11-17T21:01:33.363Z",
   "events": [
     {
       "title": "Miracle Bar",
@@ -33,6 +33,13 @@
       "title": "Weekly Desperados Catch-up",
       "start": "2026-11-17T20:30:00.000Z",
       "end": "2026-11-17T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Weekly Store Update Walk-through",
+      "start": "2026-11-17T20:45:00.000Z",
+      "end": "2026-11-17T21:15:00.000Z",
       "allDay": false,
       "location": ""
     },
