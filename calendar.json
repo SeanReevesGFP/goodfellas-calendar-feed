@@ -1,18 +1,11 @@
 {
-  "generatedAt": "2026-11-17T14:01:36.799Z",
+  "generatedAt": "2026-11-17T15:01:33.963Z",
   "events": [
     {
       "title": "Miracle Bar",
       "start": "2026-11-15T05:00:00.000Z",
       "end": "2026-12-30T05:00:00.000Z",
       "allDay": true,
-      "location": ""
-    },
-    {
-      "title": "Baxter Marketing 2027 ",
-      "start": "2026-11-17T15:00:00.000Z",
-      "end": "2026-11-17T16:00:00.000Z",
-      "allDay": false,
       "location": ""
     },
     {
