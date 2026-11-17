@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T18:01:33.476Z",
+  "generatedAt": "2026-11-17T19:01:33.389Z",
   "events": [
     {
       "title": "Miracle Bar",
@@ -24,8 +24,8 @@
     },
     {
       "title": "Area Huddle Up",
-      "start": "2026-11-17T19:00:00.000Z",
-      "end": "2026-11-17T20:00:00.000Z",
+      "start": "2026-11-17T19:30:00.000Z",
+      "end": "2026-11-17T20:30:00.000Z",
       "allDay": false,
       "location": ""
     },
