@@ -1,25 +1,11 @@
 {
-  "generatedAt": "2026-11-17T04:01:33.199Z",
+  "generatedAt": "2026-11-17T05:01:32.914Z",
   "events": [
     {
       "title": "Miracle Bar",
       "start": "2026-11-15T05:00:00.000Z",
       "end": "2026-12-30T05:00:00.000Z",
       "allDay": true,
-      "location": ""
-    },
-    {
-      "title": "Salt and Shovel Season - Stock up",
-      "start": "2026-11-16T12:00:00.000Z",
-      "end": "2026-11-16T13:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "**New** Corporate Weekly Meeting",
-      "start": "2026-11-16T15:00:00.000Z",
-      "end": "2026-11-16T16:00:00.000Z",
-      "allDay": false,
       "location": ""
     },
     {
@@ -110,6 +96,34 @@
       "title": "PR - Tatum Gray",
       "start": "2026-11-22T19:00:00.000Z",
       "end": "2026-11-22T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "**New** Corporate Weekly Meeting",
+      "start": "2026-11-23T15:00:00.000Z",
+      "end": "2026-11-23T16:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Skurnik R&D Meeting",
+      "start": "2026-11-23T17:00:00.000Z",
+      "end": "2026-11-23T18:30:00.000Z",
+      "allDay": false,
+      "location": "1228 Manchester St, Lexington, KY 40504, USA"
+    },
+    {
+      "title": "Southern R&D Meeting",
+      "start": "2026-11-23T19:00:00.000Z",
+      "end": "2026-11-23T20:30:00.000Z",
+      "allDay": false,
+      "location": "1228 Manchester St, Lexington, KY 40504, USA"
+    },
+    {
+      "title": "Sipp Hospitality Marketing - Goodfellas Pizzeria: Touch Base",
+      "start": "2026-11-23T20:30:00.000Z",
+      "end": "2026-11-23T21:00:00.000Z",
       "allDay": false,
       "location": ""
     }
