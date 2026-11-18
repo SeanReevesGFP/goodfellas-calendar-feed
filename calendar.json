@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T21:01:33.973Z",
+  "generatedAt": "2026-11-18T22:01:33.185Z",
   "events": [
     {
       "title": "Miracle Bar",
@@ -39,7 +39,7 @@
     {
       "title": " New Weekly Orientation",
       "start": "2026-11-18T19:00:00.000Z",
-      "end": "2026-11-18T20:00:00.000Z",
+      "end": "2026-11-18T19:30:00.000Z",
       "allDay": false,
       "location": ""
     },
