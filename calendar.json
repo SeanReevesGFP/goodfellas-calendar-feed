@@ -1,46 +1,11 @@
 {
-  "generatedAt": "2026-11-18T04:01:33.203Z",
+  "generatedAt": "2026-11-18T05:01:33.071Z",
   "events": [
     {
       "title": "Miracle Bar",
       "start": "2026-11-15T05:00:00.000Z",
       "end": "2026-12-30T05:00:00.000Z",
       "allDay": true,
-      "location": ""
-    },
-    {
-      "title": "Distillery Marketing 2027",
-      "start": "2026-11-17T16:00:00.000Z",
-      "end": "2026-11-17T17:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Recruitment meeting ",
-      "start": "2026-11-17T18:45:00.000Z",
-      "end": "2026-11-17T19:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Area Huddle Up",
-      "start": "2026-11-17T19:30:00.000Z",
-      "end": "2026-11-17T20:30:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Weekly Desperados Catch-up",
-      "start": "2026-11-17T20:30:00.000Z",
-      "end": "2026-11-17T21:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Weekly Store Update Walk-through",
-      "start": "2026-11-17T20:45:00.000Z",
-      "end": "2026-11-17T21:15:00.000Z",
-      "allDay": false,
       "location": ""
     },
     {
@@ -124,6 +89,41 @@
       "title": "Sipp Hospitality Marketing - Goodfellas Pizzeria: Touch Base",
       "start": "2026-11-23T20:30:00.000Z",
       "end": "2026-11-23T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Recruitment meeting ",
+      "start": "2026-11-24T18:45:00.000Z",
+      "end": "2026-11-24T19:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Area Huddle Up",
+      "start": "2026-11-24T19:00:00.000Z",
+      "end": "2026-11-24T20:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Weekly Orientation",
+      "start": "2026-11-24T19:00:00.000Z",
+      "end": "2026-11-24T19:30:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Weekly Desperados Catch-up",
+      "start": "2026-11-24T20:30:00.000Z",
+      "end": "2026-11-24T21:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Stagg Antique Series",
+      "start": "2026-11-24T23:30:00.000Z",
+      "end": "2026-11-25T00:30:00.000Z",
       "allDay": false,
       "location": ""
     }
