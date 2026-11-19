@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T03:01:33.409Z",
+  "generatedAt": "2026-11-19T04:01:33.532Z",
   "events": [
     {
       "title": "Miracle Bar",
@@ -47,6 +47,13 @@
       "title": "Desperados Marketing 2027",
       "start": "2026-11-19T15:00:00.000Z",
       "end": "2026-11-19T16:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "Add Desperados cocktail specs in Square (Square additions thread in Claude)",
+      "start": "2026-11-19T16:00:00.000Z",
+      "end": "2026-11-19T16:15:00.000Z",
       "allDay": false,
       "location": ""
     },
