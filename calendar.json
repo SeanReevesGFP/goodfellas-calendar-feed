@@ -1,32 +1,11 @@
 {
-  "generatedAt": "2026-11-20T04:01:33.512Z",
+  "generatedAt": "2026-11-20T05:01:33.550Z",
   "events": [
     {
       "title": "Miracle Bar",
       "start": "2026-11-15T05:00:00.000Z",
       "end": "2026-12-30T05:00:00.000Z",
       "allDay": true,
-      "location": ""
-    },
-    {
-      "title": "Desperados Marketing 2027",
-      "start": "2026-11-19T15:00:00.000Z",
-      "end": "2026-11-19T16:00:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Add Desperados cocktail specs in Square (Square additions thread in Claude)",
-      "start": "2026-11-19T16:00:00.000Z",
-      "end": "2026-11-19T16:15:00.000Z",
-      "allDay": false,
-      "location": ""
-    },
-    {
-      "title": "Employee Retention and Culture Focus",
-      "start": "2026-11-19T20:00:00.000Z",
-      "end": "2026-11-19T21:00:00.000Z",
-      "allDay": false,
       "location": ""
     },
     {
@@ -138,6 +117,20 @@
       "title": "2nd Annual Turkey Bash",
       "start": "2026-11-25T23:00:00.000Z",
       "end": "2026-11-26T02:00:00.000Z",
+      "allDay": false,
+      "location": ""
+    },
+    {
+      "title": "20% Off Gift Cards & 50% Off Reservation Fees",
+      "start": "2026-11-26T05:00:00.000Z",
+      "end": "2026-12-01T05:00:00.000Z",
+      "allDay": true,
+      "location": ""
+    },
+    {
+      "title": "Employee Retention and Culture Focus",
+      "start": "2026-11-26T20:00:00.000Z",
+      "end": "2026-11-26T21:00:00.000Z",
       "allDay": false,
       "location": ""
     }
